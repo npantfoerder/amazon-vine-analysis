@@ -2,6 +2,7 @@
 
 ## Overview of the Analysis
 ### Purpose
+A hypothetical company, BigMarket, helps businesses optimize their marketing efforts. Their client needs help analyzing Amazon reviews written by members of the paid Amazon Vine program. Using PySpark, I determined if there is any bias towards favorable reviews from Vine members in my dataset. The goal was to figure out if having a paid Vine review makes a difference in the percentage of 5 star reviews.
 
 ## Results
 ### DataFrames from Google Colaboratory
@@ -11,8 +12,8 @@
 <kbd> <img src='https://github.com/npantfoerder/amazon-vine-analysis/blob/master/Images/.png' width=800> </kbd> <br>
 
 ## Summary
-*In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.*
+According to the results, there is no positivity bias for reviews in the Vine program because there were less 5 star Vine reviews than 5 star non-Vine reviews. One additional analysis that I could do with the dataset to support this is finding ...
 
 #### Resources
 - Data Sources:
-- Software: Python 3.7.3
+- Software: Python 3.7.3, PySpark 3.0.1

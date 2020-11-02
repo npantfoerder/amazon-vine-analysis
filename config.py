@@ -1,1 +1,0 @@
-aws_password = 'Genbim-qynsif-ruhry3'

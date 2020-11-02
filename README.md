@@ -9,7 +9,7 @@ A hypothetical company, BigMarket, helps businesses optimize their marketing eff
 - There were 2,106 Vine reviews and 703,783 non-Vine reviews. 
 - 854 Vine reviews were 5 stars and 373,134 non-Vine reviews were 5 stars.
 - 40.55% of Vine reviews were 5 stars and 53.02% of non-Vine reviews were 5 stars. <br>
-Below are screenshots of the DataFrames with Vine and non-Vine reviews with at least 20 votes and at least 50% of the votes were helpful. <br>
+Below are screenshots of the DataFrames with Vine and non-Vine reviews with at least 20 votes and at least 50% of the votes were helpful: <br>
 <kbd> <img src='https://github.com/npantfoerder/amazon-vine-analysis/blob/master/Images/vine_reviews.png' width=900> </kbd> <br>
 <kbd> <img src='https://github.com/npantfoerder/amazon-vine-analysis/blob/master/Images/not_vine_reviews.png' width=900> </kbd> 
 

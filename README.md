@@ -14,8 +14,8 @@ Below are screenshots of the DataFrames with Vine and non-Vine reviews with at l
 <kbd> <img src='https://github.com/npantfoerder/amazon-vine-analysis/blob/master/Images/not_vine_reviews.png' width=900> </kbd> 
 
 ## Summary
-According to the results, there is no positivity bias for reviews in the Vine program because there were less 5 star Vine reviews than 5 star non-Vine reviews. One additional analysis that I could do with the dataset to support this is finding ...
+According to the results, there is no positivity bias for reviews in the Vine program. This is because the percentage of 5 star Vine reviews was lower than the percentage of 5 star non-Vine reviews. One additional analysis that I could do with the dataset to support this filtering out non-verified purchases.
 
 #### Resources
-- Data Sources:
-- Software: Python 3.7.3, PySpark 3.0.1
+- Data Sources: Amazon review data from https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Home_Entertainment_v1_00.tsv.gz
+- Software: Python 3.7.3, PySpark 3.0.1, PostgreSQL 11.9, pgAdmin 4.24, Google Colaboratory
